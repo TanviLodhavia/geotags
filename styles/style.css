@@ -1,0 +1,118 @@
+body{
+    font-family: Raleway, Arial;
+}
+.title_name{
+    color: #6a806e;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    margin: 15px 0px 10px 0px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+.brief-overview{
+    background-color: #D5E7B8;
+    width: 100%;
+    margin: 5px;
+    padding: 10px;
+    color: #6a806e;
+    font-weight: bold;
+    font-size: 30px;
+}
+.picture-slideshow{
+    background-color: #D5E7B8;
+    width: 100%;
+    margin: 5px;
+    padding: 10px;
+}
+.img-slideshow{
+    width: 100%;
+    margin: 0px;
+    
+}
+.why-recycle{
+    background-color: #D5E7B8;
+    padding: 20px 5px 20px 10px;
+}
+.why-title{
+    color: #6a806e;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.why-reason{
+    letter-spacing: 1.5px;
+    line-height: default;
+}
+.choice-text{
+    color: #6a806e;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+}
+.recycle-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+.buttons{
+    background-color: #D5E7B8;
+    display: flex;
+    flex-direction: column;
+    border: none;
+    border-radius: 20px;
+    margin: 20px;
+    cursor: pointer;
+}
+.buttons p{
+    text-align: center;
+    font-size: 25px;
+    padding: 0;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.image-1{
+    width: 200px;
+}
+
+.image-2{
+    width: 175px;
+    margin: 0px;
+    padding-top: 10px;
+}
+.image-3{
+    margin-top: 10px;
+    height: 180px;
+    margin-bottom: 10px;
+}
+.map-title{
+    text-align: center;
+    color: #6a806e;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.map{
+    width: 100%;
+}
+.map-img{
+    width: 100%;
+    margin-top: 20px;
+}
+.footer{
+    margin-top: 30px;
+    background-color: #D5E7B8;
+    height: 200px;
+}
+.footer p{
+    color: #6a806e;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
